@@ -1,6 +1,6 @@
 # investigate-texts-and-calls
 # 调查短信与电话
-Project One of Python Primary in Udacity Courses
+
 项目概况
 ================
 在这一项目中，利用一组伪造的短信与电话通信记录，你将会完成五个任务。你将运用 Python 分析并回答与数据集中的短信与通话记录相关的问题。
